@@ -1,4 +1,6 @@
 from collections import defaultdict
+import sys
+input = sys.stdin.readline
 
 SMELL = 3
 
